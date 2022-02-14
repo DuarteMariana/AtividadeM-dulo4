@@ -1,0 +1,135 @@
+
+.promo {
+  
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+.navbar {
+    color: white;
+    background-color: #131E61; 
+    font-size: 18pt;
+    padding: 10px;
+    bottom:0;
+    left:0;
+    font-family: montserrat,arial,verdana;
+}
+
+
+
+
+
+.footer {
+    margin-top: 150px;
+	display: flex;
+	justify-content: center;
+	width:100%;
+	height: 60px;
+	background-color: #131E61;
+	font-family: montserrat,arial,verdana;
+	color: white;
+	font-size: 13pt;
+	padding: 10px;
+    bottom:0;
+    left:0;
+}
+#titulo{
+    font-size: 60px;
+    font-family: montserrat,arial,verdana;
+}
+.textinicial {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    font-family: montserrat,arial,verdana;
+
+}
+
+
+.card-group{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#Viagemh1 {
+    font-family: montserrat,arial,verdana;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+
+#ViagemP {
+    font-family: montserrat,arial,verdana;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+#boxForm{
+    border: solid red 1px;
+    margin: 20px 0px;
+    padding: 25px;
+    width: 70%;
+    border: 1px solid rgb(255, 230, 230);
+    box-shadow: 2px 1px 15px rgb(251, 255, 218);
+    
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.faleConosco{
+    font-size: 20pt;
+    margin-bottom: 30px;        
+}
+
+#viagem {
+    border: solid red 1px;
+    margin: 20px 0px;
+    padding: 25px;
+    width: 70%;
+    border: 1px solid rgb(255, 230, 230);
+    box-shadow: 2px 1px 15px rgb(251, 255, 218);
+}
+
+#menu-h {
+    background-color: #131E61 ;
+    text-align: center;
+}
+
+#menu-h ul {
+    
+    max-width: 2000px;
+    list-style: none;
+    padding: 0;
+    background-color: #131E61;
+    
+
+}
+
+#menu-h ul li{
+    display: inline;
+    
+ 
+}
+
+#menu-h ul li a{
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background .4s;
+    
+    font-size: x-large;
+}
+
+#menu-h ul li a:hover {
+    background-color: #2D44E0;
+  
+}
