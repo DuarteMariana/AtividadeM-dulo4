@@ -29,13 +29,14 @@ export default function Viagem() {
                         <input type="text" class="form-control" placeholder="Destino" style={{fontSize:"15pt"}}/>
                     </div>
                 </div>
-                <br></br>
+                <br/>
                 <div class="row" style={{alingItems:"center"}}>
                     <div class="col">
                         <button type="button" class="btn btn-primary">Buscar</button>
                     </div>   
                 </div>
             </form>
+            <br/><br/>
             </div>
         </main>
         </>

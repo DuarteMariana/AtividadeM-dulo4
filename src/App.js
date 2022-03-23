@@ -6,7 +6,8 @@ import Viagem from "./Views/Viagem";
 import Contato from "./Views/Contato";
 import Menu from "./Components/Menu";
 import Footer from "./Components/Footer";
-import assets from "./assets/CSS/style.css";
+import "./assets/CSS/style.css";
+
 
 
 function App() {
